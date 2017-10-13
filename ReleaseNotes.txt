@@ -1,0 +1,5 @@
+X.805 is a layered ITU-T Security Framework for end-to-end communication, developed by Bell Labs, formerly Lucent Technologies.
+
+X805 is a digital currency based on the Cryptonote protocol, similar to Monera and Dash, offering privacy, untracability and decentralization. X805 utilizes the CryptoNight Algorithm which makes it suitable for CPU and GPU mining.
+
+This is work in progress.
